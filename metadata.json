@@ -1,0 +1,5 @@
+{
+  "name": "McDonald's Ibadan - Fast & Fresh",
+  "description": "High-converting, mobile-first ordering platform for McDonald's Ibadan, featuring smart recommendations and instant ordering.",
+  "requestFramePermissions": ["geolocation"]
+}
